@@ -8,6 +8,5 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class recipe {
-    String name;
-    String description, ingredients, directions;
+    String name, description, ingredients, directions;
 }
